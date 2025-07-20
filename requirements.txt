@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+langchain
+langchain-groq
+sentence-transformers
+faiss-cpu
