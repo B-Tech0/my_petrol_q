@@ -5,3 +5,4 @@ langchain
 langchain-groq
 sentence-transformers
 faiss-cpu
+pip install -U langchain langchain-core langchain-community langchain-groq
